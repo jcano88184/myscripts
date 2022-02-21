@@ -1,0 +1,9 @@
+set tabsize 4
+include /usr/local/share/nano/c.nanorc
+include /usr/local/share/nano/cmake.nanorc
+include /usr/local/share/nano/makefile.nanorc
+include /usr/local/share/nano/man.nanorc
+include /usr/local/share/nano/html.j2.nanorc
+include /usr/local/share/nano/html.nanorc
+include /usr/local/share/nano/zsh.nanorc
+include /usr/local/share/nano/zshrc.nanorc
